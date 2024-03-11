@@ -4,12 +4,6 @@
 This is a backend for Food ordering system that allows users to place orders and manage them. The backend uses Node.js and Express.js for routing, and MongoDB as the database, jsonwebtoken for authentication.
 
 
-
-
-
-```http
-```
-
 |HTTP Method| Endpoint    | Authentication    |Description|
 | :-------- | :------- | :------------------------- |:----------|
 | `POST` | `/users/register` |  |  Creates a new user. |
