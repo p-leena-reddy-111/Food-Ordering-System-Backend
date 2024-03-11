@@ -5,7 +5,6 @@ This is a backend for Food ordering system that allows users to place orders and
 
 
 
-## API Reference
 
 
 ```http
